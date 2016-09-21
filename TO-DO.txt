@@ -1,0 +1,55 @@
+mac branch backup 9.21 for sierra beta
+  hyperterm
+  iterm2
+  default x11
+  
+ubu branch for [front room] alien box backup 9.21 for win 10 install
+    default terminal for elem. os
+        w/ tmux or screen depending
+    terminator
+    byobu
+        set to tmux / ctrl-A escape seq
+~~~~~
+        
+mint
+    haven't backed up yet my bad
+    fairly new reinstallation mint w/ lxce or kde don't remember
+    I should back up apps mostly from electron's main app page
+    
+eee
+    same, but fucking around w. libretro on top of some skinny ubuntu nothing custom
+    will do when server build is done ( literally have to wait til october to finish bc amazon )
+    might do this on the r.pi instead and reuse eee as something else shitty maybe
+    ugly MAME cabinet
+
+yoga
+    broken beyond belief, when I figure out how to disconnect all synaptics periph.
+    I'll put in a better os. will be headless either connect to monitor or just ssh
+    use as a secondary mini server or htpc replacement
+    
+cumbook
+    crouton w/ arch chrooted
+    don't really need to back up, boring
+    
+surface
+    windows 10 and all I do is watch porn on it
+    
+~~~~~
+
+fira code
+    enable ligatures for atom
+    light table and fromscratch = o.k.
+    figure out workaround for sublime ( they are voting for something?? idgaf )
+        check out vim/powerline repo for tweaked typefaces allowing for better unicode
+dyalog
+    actually look at extent of license I weaseled
+    study
+    do
+    
+vim
+    more mouseless 1940's secretary typing
+    for funs
+    
+~~~~~
+I think that's all for sept.
+        replacements / coding symbols
